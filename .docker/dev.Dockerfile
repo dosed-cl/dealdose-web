@@ -1,0 +1,7 @@
+FROM node:20.10
+
+WORKDIR /app
+
+EXPOSE 3000
+
+CMD sleep 999999
